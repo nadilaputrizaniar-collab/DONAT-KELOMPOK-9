@@ -1,5 +1,4 @@
 # DONAT-KELOMPOK-9
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
